@@ -16,7 +16,7 @@ namespace mia_communication_log
             Console.BackgroundColor = ConsoleColor.DarkCyan
 
             Console.WriteLine("Let's see if this works now...");
-
+            Console.WriteLine("Making progress...");
         }
     }
 }
