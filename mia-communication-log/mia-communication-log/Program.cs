@@ -8,6 +8,7 @@ namespace mia_communication_log
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello pilot!");
+            Console.WriteLine("Ready for takeoff!");
         }
     }
 }
