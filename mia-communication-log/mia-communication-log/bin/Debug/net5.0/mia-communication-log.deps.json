@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "mia-communication-log/1.0.0": {
+        "runtime": {
+          "mia-communication-log.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mia-communication-log/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

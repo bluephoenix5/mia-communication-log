@@ -1,0 +1,16 @@
+C:\Users\mlord\Desktop\LaunchCode_Microsoft\csharp-practice\bluephoenix5\mia-communication-log\mia-communication-log\mia-communication-log\bin\Debug\net5.0\mia-communication-log.exe
+C:\Users\mlord\Desktop\LaunchCode_Microsoft\csharp-practice\bluephoenix5\mia-communication-log\mia-communication-log\mia-communication-log\bin\Debug\net5.0\mia-communication-log.deps.json
+C:\Users\mlord\Desktop\LaunchCode_Microsoft\csharp-practice\bluephoenix5\mia-communication-log\mia-communication-log\mia-communication-log\bin\Debug\net5.0\mia-communication-log.runtimeconfig.json
+C:\Users\mlord\Desktop\LaunchCode_Microsoft\csharp-practice\bluephoenix5\mia-communication-log\mia-communication-log\mia-communication-log\bin\Debug\net5.0\mia-communication-log.runtimeconfig.dev.json
+C:\Users\mlord\Desktop\LaunchCode_Microsoft\csharp-practice\bluephoenix5\mia-communication-log\mia-communication-log\mia-communication-log\bin\Debug\net5.0\mia-communication-log.dll
+C:\Users\mlord\Desktop\LaunchCode_Microsoft\csharp-practice\bluephoenix5\mia-communication-log\mia-communication-log\mia-communication-log\bin\Debug\net5.0\ref\mia-communication-log.dll
+C:\Users\mlord\Desktop\LaunchCode_Microsoft\csharp-practice\bluephoenix5\mia-communication-log\mia-communication-log\mia-communication-log\bin\Debug\net5.0\mia-communication-log.pdb
+C:\Users\mlord\Desktop\LaunchCode_Microsoft\csharp-practice\bluephoenix5\mia-communication-log\mia-communication-log\mia-communication-log\obj\Debug\net5.0\mia-communication-log.csproj.AssemblyReference.cache
+C:\Users\mlord\Desktop\LaunchCode_Microsoft\csharp-practice\bluephoenix5\mia-communication-log\mia-communication-log\mia-communication-log\obj\Debug\net5.0\mia-communication-log.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mlord\Desktop\LaunchCode_Microsoft\csharp-practice\bluephoenix5\mia-communication-log\mia-communication-log\mia-communication-log\obj\Debug\net5.0\mia-communication-log.AssemblyInfoInputs.cache
+C:\Users\mlord\Desktop\LaunchCode_Microsoft\csharp-practice\bluephoenix5\mia-communication-log\mia-communication-log\mia-communication-log\obj\Debug\net5.0\mia-communication-log.AssemblyInfo.cs
+C:\Users\mlord\Desktop\LaunchCode_Microsoft\csharp-practice\bluephoenix5\mia-communication-log\mia-communication-log\mia-communication-log\obj\Debug\net5.0\mia-communication-log.csproj.CoreCompileInputs.cache
+C:\Users\mlord\Desktop\LaunchCode_Microsoft\csharp-practice\bluephoenix5\mia-communication-log\mia-communication-log\mia-communication-log\obj\Debug\net5.0\mia-communication-log.dll
+C:\Users\mlord\Desktop\LaunchCode_Microsoft\csharp-practice\bluephoenix5\mia-communication-log\mia-communication-log\mia-communication-log\obj\Debug\net5.0\ref\mia-communication-log.dll
+C:\Users\mlord\Desktop\LaunchCode_Microsoft\csharp-practice\bluephoenix5\mia-communication-log\mia-communication-log\mia-communication-log\obj\Debug\net5.0\mia-communication-log.pdb
+C:\Users\mlord\Desktop\LaunchCode_Microsoft\csharp-practice\bluephoenix5\mia-communication-log\mia-communication-log\mia-communication-log\obj\Debug\net5.0\mia-communication-log.genruntimeconfig.cache
