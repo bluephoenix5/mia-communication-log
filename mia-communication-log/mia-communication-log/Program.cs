@@ -11,6 +11,7 @@ namespace mia_communication_log
             Console.WriteLine("Ready for takeoff!");
             Console.WriteLine("Great weather for some flying!");
             Console.WriteLine("WTF is happening?!?!?!?!");
+            Console.WriteLine("Let's see if this works now...");
         }
     }
 }
