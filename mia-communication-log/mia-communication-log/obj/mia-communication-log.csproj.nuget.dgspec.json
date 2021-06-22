@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Justin\\desktop\\launchcode\\csharp-practice\\mia-communication-log\\mia-communication-log\\mia-communication-log\\mia-communication-log.csproj": {}
+    "C:\\Users\\mlord\\Desktop\\LaunchCode_Microsoft\\csharp-practice\\bluephoenix5\\mia-communication-log\\mia-communication-log\\mia-communication-log\\mia-communication-log.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Justin\\desktop\\launchcode\\csharp-practice\\mia-communication-log\\mia-communication-log\\mia-communication-log\\mia-communication-log.csproj": {
+    "C:\\Users\\mlord\\Desktop\\LaunchCode_Microsoft\\csharp-practice\\bluephoenix5\\mia-communication-log\\mia-communication-log\\mia-communication-log\\mia-communication-log.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Justin\\desktop\\launchcode\\csharp-practice\\mia-communication-log\\mia-communication-log\\mia-communication-log\\mia-communication-log.csproj",
+        "projectUniqueName": "C:\\Users\\mlord\\Desktop\\LaunchCode_Microsoft\\csharp-practice\\bluephoenix5\\mia-communication-log\\mia-communication-log\\mia-communication-log\\mia-communication-log.csproj",
         "projectName": "mia-communication-log",
-        "projectPath": "C:\\Users\\Justin\\desktop\\launchcode\\csharp-practice\\mia-communication-log\\mia-communication-log\\mia-communication-log\\mia-communication-log.csproj",
-        "packagesPath": "C:\\Users\\Justin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Justin\\desktop\\launchcode\\csharp-practice\\mia-communication-log\\mia-communication-log\\mia-communication-log\\obj\\",
+        "projectPath": "C:\\Users\\mlord\\Desktop\\LaunchCode_Microsoft\\csharp-practice\\bluephoenix5\\mia-communication-log\\mia-communication-log\\mia-communication-log\\mia-communication-log.csproj",
+        "packagesPath": "C:\\Users\\mlord\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mlord\\Desktop\\LaunchCode_Microsoft\\csharp-practice\\bluephoenix5\\mia-communication-log\\mia-communication-log\\mia-communication-log\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Justin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mlord\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
