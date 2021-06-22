@@ -14,12 +14,13 @@ namespace mia_communication_log
             Console.WriteLine("WTF is happening?!?!?!?!");
 
             Console.WriteLine("We prob broke this and you'll never see it!!!");
-            Console.BackgroundColor = ConsoleColor.DarkGray;
+
+            Console.BackgroundColor = ConsoleColor.DarkRed;
 
             Console.WriteLine("Let's see if this works now...");
             Console.WriteLine("Making progress...");
 
-            Console.BackgroundColor = ConsoleColor.DarkBlue
+            Console.BackgroundColor = ConsoleColor.DarkBlue;
         }
     }
 }
